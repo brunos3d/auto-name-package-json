@@ -4,7 +4,7 @@ This is a simple script that will automatically add the property `name` to every
 
 ## ⚠ Warning ⚠
 
-This script will overwrite all `package.json` files in the current directory and all subdirectories that don't have the `name` property.
+This script will **OVERWRITE ALL** `package.json` files in the current directory and all subdirectories that don't have the `name` property.
 
 ## How to use it
 
